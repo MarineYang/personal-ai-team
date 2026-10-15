@@ -1,0 +1,15 @@
+.runtime/
+workspace/
+node_modules/
+.DS_Store
+dist/
+.env
+.env.*
+*.log
+
+# Local agent settings and credentials
+.codex/
+.agents/
+.aws/
+*.pem
+*.key
